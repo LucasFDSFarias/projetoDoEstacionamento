@@ -1,0 +1,28 @@
+C:\Users\Lucas\Desktop\NovoProjeto2\bin\Debug\net8.0\NovoProjeto2.exe
+C:\Users\Lucas\Desktop\NovoProjeto2\bin\Debug\net8.0\NovoProjeto2.deps.json
+C:\Users\Lucas\Desktop\NovoProjeto2\bin\Debug\net8.0\NovoProjeto2.runtimeconfig.json
+C:\Users\Lucas\Desktop\NovoProjeto2\bin\Debug\net8.0\NovoProjeto2.dll
+C:\Users\Lucas\Desktop\NovoProjeto2\bin\Debug\net8.0\NovoProjeto2.pdb
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\NovoProjeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\NovoProjeto2.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\NovoProjeto2.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\NovoProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\NovoProjeto2.dll
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\refint\NovoProjeto2.dll
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\NovoProjeto2.pdb
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\NovoProjeto2.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\NovoProjeto2\obj\Debug\net8.0\ref\NovoProjeto2.dll
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\bin\Debug\net8.0\NovoProjeto2.exe
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\bin\Debug\net8.0\NovoProjeto2.deps.json
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\bin\Debug\net8.0\NovoProjeto2.runtimeconfig.json
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\bin\Debug\net8.0\NovoProjeto2.dll
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\bin\Debug\net8.0\NovoProjeto2.pdb
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\NovoProjeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\NovoProjeto2.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\NovoProjeto2.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\NovoProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\NovoProjeto2.dll
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\refint\NovoProjeto2.dll
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\NovoProjeto2.pdb
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\NovoProjeto2.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\NovoProjeto2 - Copia\obj\Debug\net8.0\ref\NovoProjeto2.dll
